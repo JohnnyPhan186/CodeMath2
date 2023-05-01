@@ -1,14 +1,9 @@
-# AND101 Project 4 - CodeMath
+# Calculator 
 
 Submitted by: **Johnny Phan**
 
-Time spent: **2** hours spent in total
 
-## Summary
 
-**CodeMath** is an android app that **calculates the total price depending on the what the user inputs as a tip percentage.**
-
-If I had to describe this project in three (3) emojis, they would be: **😁🥳🤯**
 
 ## Application Features
 
@@ -18,14 +13,6 @@ The following REQUIRED features are completed:
 - [X] At least one (1) interactive View
 - [X] At least one (1) output of a calculation based on the user input
 
-The following STRETCH features are implemented:
-
-- [ ] Implement ViewBinding to reduce boilerplate code and increase efficiency
-- [ ] Add at least one (1) additional functionality
-
-The following EXTRA features are implemented:
-
-- [ ] List anything else that you added to improve the app!
 
 ## Video Demo
 
@@ -39,14 +26,8 @@ GIF created with **your chosen GIF tool**
 https://user-images.githubusercontent.com/102921609/227689639-2a2676ad-158c-4c6e-9c53-2d3f187cc724.mp4
 
 
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
 
 ## License
 
